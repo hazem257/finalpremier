@@ -1,7 +1,7 @@
-import { UsersIcon, UserPlus } from "lucide-react";
+//import { UsersIcon, UserPlus } from "lucide-react";
 import { motion } from "framer-motion";
 import { useState, useEffect } from "react";
-import axios from 'axios';
+import axios from "axios";
 import Header from "../components/common/Header";
 import QuranVerse from '../components/QuranVerse';
 import StatCard from "../components/common/StatCard";
